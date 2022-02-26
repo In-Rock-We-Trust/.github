@@ -1,2 +1,7 @@
 # In Rock We Trust
-![Yes](https://media.discordapp.net/attachments/939780452275875850/944539754425356319/irwt_banner_2.png)
+
+![Yes](https://cdn.smehost.net/acdccom-uscolumbiaprod/wp-content/uploads/2021/05/1.jpg)
+
+## In Rock We Trust's GitHub.
+- [inrockwetrust.xyz](https://inrockwetrust.xyz)'s source code [Click Here](https://github.com/In-Rock-We-Trust/in-rock-we-trust.github.io)
+- Band bots: source code coming soon 👀
