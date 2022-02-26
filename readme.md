@@ -1,2 +1,2 @@
 # In Rock We Trust
-![Yes](https://cdn.smehost.net/acdccom-uscolumbiaprod/wp-content/uploads/2021/05/4.jpg)
+![Yes](https://media.discordapp.net/attachments/939780452275875850/944539754425356319/irwt_banner_2.png)
