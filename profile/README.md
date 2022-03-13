@@ -4,4 +4,4 @@
 
 ## In Rock We Trust's GitHub.
 - [inrockwetrust.xyz](https://inrockwetrust.xyz)'s source code [Click Here](https://github.com/In-Rock-We-Trust/in-rock-we-trust.github.io)
-- Band bots: source code coming soon 👀
+- Phil Bot's source code [Click Here](https://github.com/In-Rock-We-Trust/phil-bot)
